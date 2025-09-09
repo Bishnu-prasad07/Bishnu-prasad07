@@ -62,4 +62,4 @@ With strong foundations in **network protocols, security frameworks, cloud syste
 
 ---
 
-<img src="https://raw.githubusercontent.com/bishnuprasadpanda/bishnuprasadpanda/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bishnu-prasad07/Bishnu-prasad07/output/snake.svg" alt="Snake animation" />
